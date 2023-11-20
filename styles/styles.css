@@ -1,9 +1,9 @@
 body {
-    background-image: url(https://churrascariameinhaus.com.br/blog/wp-content/uploads/2017/08/voce-sabia-24-de-abril-e-o-dia-do-churrasco-receitas.jpg);
+    background-image:url(../img/bg.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-}
+    }
 
 body,
 html {
